@@ -12,7 +12,7 @@ self-hosted platform, Zero Trust edge, 24/7 alerting and AI where it actually he
 [![Website](https://img.shields.io/badge/n3xus.dev-0B1220?style=for-the-badge&logo=googlechrome&logoColor=14B8A6)](https://n3xus.dev)
 [![Status](https://img.shields.io/badge/status.n3xus.dev-live-2EA043?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.n3xus.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-N3XUS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/n3xus-dev)
-[![Email](https://img.shields.io/badge/samurai%40n3xus.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samurai@n3xus.dev)
+[![Email](https://img.shields.io/badge/contato%40n3xus.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@n3xus.dev)
 
 [![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-2%20nodes-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://github.com/Samurai33/n3xus-lab-observability)
 [![Coolify](https://img.shields.io/badge/deploy-Coolify-8B5CF6?style=flat-square&logo=docker&logoColor=white)](#platform)
@@ -137,7 +137,7 @@ their original authors.
 
 <div align="center">
 
-**Need something built, secured or kept online?** → [samurai@n3xus.dev](mailto:samurai@n3xus.dev) · [n3xus.dev](https://n3xus.dev)
+**Need something built, secured or kept online?** → [contato@n3xus.dev](mailto:contato@n3xus.dev) · [n3xus.dev](https://n3xus.dev)
 
 © N3XUS · São Paulo, Brazil
 
